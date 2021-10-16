@@ -1,10 +1,13 @@
 <h1>Olá. Eu sou o Pedro Victor</h1>
+<div>
+  <ul type='disc'>
+    <li>Atualmente estou <strong>desempregado</strong>.</l1>
+    <li>Estou estudando <strong>Front-End</strong>
+</div>
 
 
 
-- 🔭 Não trabalho com nada ainda.
-- 🌱 Estou estudando Desenvolvimento Web
-- 😄 Pronomes: Ele/Dele
+</ul>
 <div align="center">
   <a href="https://github.com/pedrovictormotasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovictormotasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
