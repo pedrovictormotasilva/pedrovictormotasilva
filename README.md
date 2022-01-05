@@ -18,7 +18,7 @@
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/689935779094462526/897013425341882398/github.gif">
+  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/897014256250261514/902696390403186708/928105654680440852">
  </div>
   
 ##
