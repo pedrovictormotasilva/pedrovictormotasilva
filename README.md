@@ -3,6 +3,7 @@
   <ul type='disc'>
     <li>Atualmente estou <strong>desempregado</strong>.</l1>
     <li>Estou estudando <strong>Front-End</strong>
+    <li>Maior domínio em <strong>HTML</strong> e <strong>CSS</strong>
 </div>
 
 
