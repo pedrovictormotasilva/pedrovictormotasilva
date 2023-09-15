@@ -2,8 +2,9 @@
 <div>
   <ul type='disc'>
     <li>Atualmente estou <strong>desempregado</strong>.</l1>
-    <li>Estou estudando <strong>Front-End e Desenvolvimento Mobile</strong>
-    <li>Maior domínio em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>
+    <li>Estou estudando <strong>Front-End e Desenvolvimento Mobile mais especificamente focado em Flutter & Dart.</strong>
+    <li>2/3 Curso técnico profissionalizante de informática.</li>
+    
 </div>
 
 
