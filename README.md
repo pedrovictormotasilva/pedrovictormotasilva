@@ -3,7 +3,7 @@
   <ul type='disc'>
     <li>Atualmente estou <strong>desempregado</strong>.</l1>
     <li>Estou estudando <strong>Front-End e Desenvolvimento Mobile mais especificamente focado em Flutter & Dart.</strong>
-    <li>2/3 Curso técnico profissionalizante de informática.</li>
+    <li>3/3 Curso técnico profissionalizante de informática.</li>
     
 </div>
 
