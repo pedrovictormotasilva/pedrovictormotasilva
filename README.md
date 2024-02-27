@@ -1,7 +1,7 @@
 <h1>Olá. Eu sou o Pedro Victor</h1>
 <div>
   <ul type='disc'>
-    <li>Atualmente estou <strong>desempregado</strong>.</l1>
+    <li>Atualmente sou <strong>Estudante</strong>.</l1>
     <li>Estou estudando <strong>Front-End e Desenvolvimento Mobile mais especificamente focado em Flutter & Dart.</strong>
     <li>3/3 Curso técnico profissionalizante de informática.</li>
     
@@ -18,10 +18,12 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    <img align="center" alt="Pedro-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Pedro-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     
  </div>
   
