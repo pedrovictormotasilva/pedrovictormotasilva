@@ -1,10 +1,10 @@
 <h1>Olá. Eu sou o Pedro Victor</h1>
 <div>
-  <ul type='disc'>
-    <li>Atualmente sou <strong>Estudante</strong>.</l1>
-    <li>Estou estudando <strong>Front-End e Desenvolvimento Mobile mais especificamente focado em Flutter & Dart.</strong>
-    <li>3/3 Curso técnico profissionalizante de informática.</li>
-    
+  <ul type='none'>
+    <li> 👨‍💻 Atualmente sou <strong>Estudante</strong>.</l1> 
+    <li> 📱 Estou estudando <strong>Front-End e Desenvolvimento Mobile mais especificamente focado em Flutter & Dart.</strong>
+    <li> 💻 3/3 Curso técnico profissionalizante de informática.</li>
+    <li></li>
 </div>
 
 
