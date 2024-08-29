@@ -35,6 +35,6 @@
   <a href="https://www.linkedin.com/in/pedro-victor-mota-silva-139230313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats/?user=pedrovictormotasilva&" alt="Pedro-Victor" /></p>
+
 
 
