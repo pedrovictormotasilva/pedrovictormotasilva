@@ -1,31 +1,28 @@
-<h1>Olá. Eu sou o Pedro Victor</h1>
-<div>
-  <ul type='none'>
-    <li> 👨‍💻 Atualmente sou <strong>Free-lancer</strong> de programação e desenvolvimento.</l1> 
-    <li> 📱 Estou aberto para propostas com <strong>Front-End e Desenvolvimento Mobile mais especificamente Flutter & Dart.</strong>
-    <li> 💻 3/3 Curso técnico profissionalizante de informática.</li>
-    <li></li>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Victor;I'm+18+years+old;I'm+from+Brazil;Be+Welcome+my+GitHub!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovictormotasilva&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Araújo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictormotasilva&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117"/>
 </div>
 
 
+<div display="flex">
 
-</ul>
-<div align="center">
-  <a href="https://github.com/pedrovictormotasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovictormotasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictormotasilva&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block", align="center"><br>
-  <img align="center" alt="Pedro-reactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="center" alt="Pedro-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-     <img align="center" alt="Pedro-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Pedro-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-    <img align="center" alt="Pedro-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-   
+  ### Main Skills:
   
-    
+   [![My Skills](https://skillicons.dev/icons?i=,react,html,css,git,github,vscode,dart,flutter)](https://skillicons.dev)
+   
  </div>
+
+
+<div display="flex">
+
+ ### Studying in this moment:
+  
+ [![My Skills](https://skillicons.dev/icons?i=,typescript,nestjs,nodejs,)](https://skillicons.dev)
+</div>
   
 ##
   
@@ -33,6 +30,8 @@
   <a href="https://instagram.com/pedrovic_mota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:motasilvapedrovictor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-victor-mota-silva-139230313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/7jdS9xExcX" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    
 </div>
 
 
