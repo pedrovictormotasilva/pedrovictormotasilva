@@ -10,7 +10,8 @@
 ### Main Skills:
 
 <div>
-  <img align="right" src="https://github.com/user-attachments/assets/40ba69dc-089d-4149-8555-0c398b98a81b" alt="Your Image" width="200" height="200" />
+  <img align="right" src="https://github.com/user-attachments/assets/4ea94642-f2cb-4bea-85a0-5e269d49292f" alt="Your Image" width="200" height="200" style="border-radius: 20px;" />
+
 
 
   [![My Skills](https://skillicons.dev/icons?i=react,html,css,git,github,vscode,dart,flutter)](https://skillicons.dev)
@@ -19,7 +20,10 @@
 ### Studying in this moment:
   
 [![My Skills](https://skillicons.dev/icons?i=typescript,nestjs,nodejs)](https://skillicons.dev)
-
+</br>
+</br>
+</br>
+</br>
 ##
 
 <div align="center"> 
