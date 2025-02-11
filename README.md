@@ -14,7 +14,7 @@
 
 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,html,css,git,github,vscode,dart,flutter)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,html,css,git,github,vscode,windows,dart,flutter)](https://skillicons.dev)
 </div>
 
 ### Studying in this moment:
