@@ -19,7 +19,7 @@
 
 ### Studying in this moment:
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,linux)](https://skillicons.dev)
 </br>
 </br>
 </br>
