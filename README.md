@@ -1,19 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Victor;I'm+18+years+old;I'm+from+Brazil;Be+Welcome+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Victor;I'm+18+years+old;I'm+from+Brazil;Be+Welcome+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovictormotasilva&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Victor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictormotasilva&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovictormotasilva&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Victor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictormotasilva&layout=compact&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=0d1117"/>
 </div>
 
 ### Main Skills:
 
 <div>
-  <img align="right" src="https://github.com/user-attachments/assets/36e6e716-ad86-40d0-b353-ece5b0e223b5" alt="Your Image" width="200" height="200" style="border-radius: 50px;" />
-
-
-
+  <img align="right" src="https://github.com/user-attachments/assets/805046fa-61bb-44f7-99de-78ac188b6d0f" alt="Your Image" width="200" height="200" style="border-radius: 50px;" />
 
   [![My Skills](https://skillicons.dev/icons?i=dart,flutter,react,html,css,git,github,vscode,androidstudio,windows)](https://skillicons.dev)
 </div>
