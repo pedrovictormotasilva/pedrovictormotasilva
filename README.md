@@ -10,7 +10,8 @@
 ### Main Skills:
 
 <div>
-  <img align="right" src="https://github.com/user-attachments/assets/4ea94642-f2cb-4bea-85a0-5e269d49292f" alt="Your Image" width="200" height="200" style="border-radius: 20px;" />
+  <img align="right" src="https://github.com/user-attachments/assets/36e6e716-ad86-40d0-b353-ece5b0e223b5" alt="Your Image" width="200" height="200" style="border-radius: 50px;" />
+
 
 
 
