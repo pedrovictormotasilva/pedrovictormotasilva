@@ -7,10 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictormotasilva&layout=compact&hide_border=true&title_color=00FF99&text_color=00FF99&bg_color=0d1117"/>
 </div>
 
+
 ### Main Skills:
 
 <div>
-  <img align="right" src="https://github.com/user-attachments/assets/805046fa-61bb-44f7-99de-78ac188b6d0f" alt="Your Image" width="200" height="200" style="border-radius: 50px;" />
+  <img align="right" src="https://github.com/user-attachments/assets/ae086122-cca6-48ec-85d9-6df8701700fe" alt="Your Image" width="200" height="200" style="border-radius: 50px;" />
 
   [![My Skills](https://skillicons.dev/icons?i=dart,flutter,react,html,css,git,github,vscode,androidstudio,windows)](https://skillicons.dev)
 </div>
@@ -23,6 +24,7 @@
 </br>
 </br>
 ##
+
 
 <div align="center"> 
   <a href="https://instagram.com/pedrovic_mota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
