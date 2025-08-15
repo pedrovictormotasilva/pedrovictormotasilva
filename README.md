@@ -1,10 +1,10 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e9e9e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF99&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Victor;I'm+18+years+old;I'm+from+Brazil;Be+Welcome+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9e9e9e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Victor;I'm+18+years+old;I'm+from+Brazil;Be+Welcome+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovictormotasilva&show_icons=true&count_private=true&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Victor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictormotasilva&layout=compact&hide_border=true&title_color=00FF99&text_color=00FF99&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovictormotasilva&show_icons=true&count_private=true&hide_border=true&title_color=9e9e9e&icon_color=9e9e9e&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Victor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictormotasilva&layout=compact&hide_border=true&title_color=9e9e9e&text_color=9e9e9e&bg_color=0d1117"/>
 </div>
 
 
@@ -23,15 +23,16 @@
 
 </div>
 
+
 <!-- Bloco direito: Spotify + Foto -->
-<div align="right" style="margin-top: -60px;"> <!-- <- ajustado aqui -->
+<div align="right" style="margin-top: -60px;">
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g9rfsat5syltqcw6ndqkyzale&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false" width="200" />
 
 <br/>
 
 <img 
-  src="https://github.com/user-attachments/assets/ae086122-cca6-48ec-85d9-6df8701700fe" 
+  src="https://github.com/user-attachments/assets/fc09f3f6-73bc-4496-81b4-8b370459b662" 
   width="200" 
   height="200" 
   style="border-radius: 50px; margin-top: 10px;"
