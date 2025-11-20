@@ -18,7 +18,7 @@
 <div style="margin-top: -8px;"></div>
 
 ### Studying now:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,php,laravel,linux,)](https://skillicons.dev)
 
 </div>
 
