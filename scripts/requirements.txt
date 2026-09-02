@@ -1,0 +1,4 @@
+# Used by the daily GitHub Action (fetch + render the heatmap).
+# Kept intentionally light so the workflow runs fast.
+requests
+beautifulsoup4

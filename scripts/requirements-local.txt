@@ -1,0 +1,7 @@
+# Only needed once, locally, to regenerate avi-ascii.svg / info-card.svg
+# from a new photo. NOT installed by the GitHub Action.
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime
