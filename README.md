@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Victor;I'm+19+years+old;I'm+from+Brazil;Be+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<h3><code>pedro@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 <br>
 
-<h3><code>pedro@github ~ $ whoami</code></h3>
+
 <table>
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
