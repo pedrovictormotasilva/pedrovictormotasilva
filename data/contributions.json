@@ -2,41 +2,6 @@
   "username": "pedrovictormotasilva",
   "days": [
     {
-      "date": "2025-11-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "level": 1,
-      "count": 1
-    },
-    {
-      "date": "2025-11-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-11-23",
       "level": 0,
       "count": 0
@@ -1853,6 +1818,11 @@
     },
     {
       "date": "2026-11-21",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-11-22",
       "level": 0,
       "count": 0
     }
@@ -1860,13 +1830,13 @@
   "stats": {
     "total_last_year": 90,
     "current_streak": 0,
-    "longest_streak": 80,
+    "longest_streak": 81,
     "best_day": {
       "date": "2026-09-02",
       "count": 5
     },
     "monthly_totals": {
-      "2025-11": 1,
+      "2025-11": 0,
       "2025-12": 0,
       "2026-01": 0,
       "2026-02": 0,
@@ -1878,8 +1848,8 @@
       "2026-08": 0,
       "2026-09": 33,
       "2026-10": 31,
-      "2026-11": 20
+      "2026-11": 21
     },
-    "generated_at": "2026-11-21T14:37:03.422956Z"
+    "generated_at": "2026-11-22T14:31:26.996832Z"
   }
 }
